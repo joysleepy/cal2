@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: snow;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    width: 100%;
+    padding: 10px;
+    background-color: tan;
+    margin-bottom: 10px;
+}
+
+/*
+    2. ID.s
+*/
+
+section#copyright{
+    background-color: black;
+    color: white;
+}
+
+section#galeria figure img{
+    width: 100%;
+    height: auto;
+}
